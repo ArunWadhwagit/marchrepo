@@ -1,1 +1,1 @@
-azurerm
+azurerm "Resource"
